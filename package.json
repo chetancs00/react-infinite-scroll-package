@@ -12,7 +12,7 @@
     "build": "babel src --out-dir dist"
   },
   "author": "Chetan",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -26,5 +26,18 @@
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0",
     "react-dom": "^17.0.0 || ^18.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chetancs00/react-infinite-scroll-package"
+  },
+  "keywords": [
+    "react",
+    "infinite scroll",
+    "intersection observer"
+  ],
+  "bugs": {
+    "url": "https://github.com/chetancs00/react-infinite-scroll-package/issues"
+  },
+  "homepage": "https://github.com/chetancs00/react-infinite-scroll-package#readme"
 }
