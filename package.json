@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-scroll-package",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "this is a package for react js that uses infinte scroll feature",
   "main": "dist/index.js",
   "module": "dist/index.js",
